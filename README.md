@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
-<h3 align="center">A Computer engineering student from Poland</h3>
+<h3 align="center">A Computer engineering student from Poland.</h3>
 
-- :heart_eyes_cat: I love math, programming and data science
-- :blue_book: My main interests:
+- My main interests:
   - Machine learning
   - Statistics
-  - Artificial Inteligence
+  - Data engineering
 - 📫 How to reach me: **p.polkowski01@gmail.com**
 
 
