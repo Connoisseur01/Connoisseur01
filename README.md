@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
-<h3 align="center">A Computer engineering student from Poland.</h3>
+<h3 align="center">A Computer science student from Poland.</h3>
 
 - My main interests:
   - Machine learning
