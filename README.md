@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
 <h3 align="center">Artificial Intelligence student from Poland.</h3>
 
-- My main interests:
-  - Machine learning
-  - Statistics
-  - Data engineering
 - 📫 How to reach me: **p.polkowski01@gmail.com**
 
 
