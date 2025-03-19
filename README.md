@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
 <h3 align="center">Artificial Intelligence student from Poland.</h3>
 
-- 📫 How to reach me: **p.polkowski01@gmail.com**
+- 📫 How to reach me:
+  
+  email: **p.polkowski01@gmail.com**
+  
+  LinkedIn: **https://www.linkedin.com/in/patryk-polkowski/**
 
 
 
